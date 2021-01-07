@@ -4,3 +4,6 @@ footer {
   background-color: DarkSlateGrey;
   color: white;
 }
+body {
+  font-family: 'Courier New', monospace;
+}
